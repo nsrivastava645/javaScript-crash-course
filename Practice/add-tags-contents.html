@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add tags through javascript</title>
+</head>
+<body>
+    <a href="#" onclick="addContent(); return false;" ><button>Click me to add content</button></a>
+    <ul id="list-to-add-content">The List
+        <li>Child 0 inbuilt</li>
+    </ul>
+    
+    <script>
+        counter = 1;
+        function addContent(){
+            let newElement = document.createElement('li');
+            newElement.innerHTML = 'Child ' + counter + ' created using js';
+            document.getElementById('list-to-add-content').appendChild(newElement);
+            counter++;
+        }
+    </script>
+</body>
+</html>
