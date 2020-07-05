@@ -6,4 +6,4 @@
     <li> read throught the main.js filein js folder</li>
     <li>For any issues contact nsrivastava645@gmail.com</li>
 </ul>
-![alt text](https://i.ibb.co/m9byZPV/landingpage.png)
+![alt text](https://ibb.co/9vNPz4Y)
