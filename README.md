@@ -8,9 +8,4 @@
     <li>For any issues contact nsrivastava645@gmail.com</li>
 </ul>
 
-<<<<<<< HEAD
 ![Screenshot](Screenshot.png)
-=======
-
-
->>>>>>> dd817d5d6fafe64dc7db9f3fe0f681e5f2632bde
